@@ -145,7 +145,7 @@ class BaseSprite:
 class Snake(BaseSprite):
     ''' Snake object with phisics '''
     def __init__(self, x_pos:int, y_pos:int):
-        super().__init__(x_pos, y_pos, speed=15)
+        super().__init__(x_pos, y_pos, speed=10)
         self.direction = None
         self.tail = [[self.y_pos, self.x_pos - 1, ]]
         self.clock = time.time()

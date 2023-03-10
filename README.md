@@ -8,12 +8,13 @@
 
 ## Description ##
 "Snake game with curses (enormous game physics in future)"
+![](https://github.com/entropax/termosnake/demo/demo.gif)
 
 ## Install ##
 ### Linux ###
 - get this repo
 ```sh
-git clone https://github.com/entropax/ && \
+git clone https://github.com/entropax/termosnake.git
 ```
 ### Windows ###
 ...
