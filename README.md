@@ -8,7 +8,7 @@
 
 ## Description ##
 "Snake game with curses (enormous game physics in future)"
-![](https://github.com/entropax/termosnake/demo/demo.gif)
+![demo](https://github.com/entropax/termosnake/blob/master/demo/demo.gif)
 
 ## Install ##
 ### Linux ###
